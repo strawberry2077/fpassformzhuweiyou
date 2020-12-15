@@ -13,6 +13,7 @@
     "bootstrap": "^4.1.0",
     "clipboard": "^1.7.1",
     "js-sha512": "^0.7.1",
+    "keccak": "^3.0.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-router-dom": "^4.2.2",
@@ -23,7 +24,19 @@
     "husky": "^0.14.3",
     "prettier": "^1.12.1",
     "pretty-quick": "^1.4.1",
-    "react-scripts": "1.1.1"
+    "react-scripts": "4.0.1"
   },
-"homepage": "https://strawberry2077.github.io/fpassformzhuweiyou/"
+  "homepage": ".",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
 }
