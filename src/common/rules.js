@@ -5,6 +5,7 @@ export const rules = [
   { name: '微信公众平台', domain: 'mp.weixin.qq.com', length: 16 },
   { name: '优酷', domain: 'youku.com', length: 16 },
   { name: 'Steam', domain: 'store.steampowered.com', length: 64 },
+  { name: '钉钉', domain: 'dingtalk.com', length: 64 },
   { name: '腾讯QQ', domain: 'qq.com', length: 16 },
   { name: '微信', domain: 'wx.qq.com', length: 16 },
   { name: 'GitHub', domain: 'github.com', length: 72 },
